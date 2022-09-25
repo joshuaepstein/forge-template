@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: TemplateMod-Public-Internal
+Implementation-Version: 1.6.2
+Specification-Vendor: JoshuaEpstein
+Specification-Title: TemplateMod
+Specification-Version: 1
+Implementation-Vendor: JoshuaEpstein
+MixinConnector: MixinConnector

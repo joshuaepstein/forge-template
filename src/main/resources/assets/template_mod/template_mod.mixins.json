@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "joshuaepstein.template_mod.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "template_mod.refmap.json",
+  "mixins": [
+    "MixinAnvilMenu"
+  ],
+  "client": [
+
+  ],
+  "server": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
